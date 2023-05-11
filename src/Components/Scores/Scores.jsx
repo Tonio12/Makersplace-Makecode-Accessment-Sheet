@@ -24,7 +24,7 @@ function Scores() {
   return (
     <div className="s-container">
       <div>
-        <span>Official Score Calculator By </span>
+        <span>Official Score Calculator</span>
         <span className="stroke-text">Makersplace</span>
       </div>
       <div className="score-session">
